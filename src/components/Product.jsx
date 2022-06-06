@@ -52,6 +52,8 @@ const Image = styled.img`
 const Icon = styled.div`
 	width: 40%;
 	height: 40%;
+	max-width: 80px;
+	max-height: 80px;
 	border-radius: 50%;
 	background-color: white;
 	display: flex;
